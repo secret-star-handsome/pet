@@ -1,0 +1,45 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+/Recordings/
+
+# IDE / generated project files
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Local recordings (attach to PR / release instead)
+docs/recordings/*.mp4
+docs/recordings/*.mov
+
+# Native macOS build output
+Native~/macOS/build/
+Native~/macOS/*.bundle
+Assets/Plugins/macOS/*.bundle/
+Assets/Plugins/macOS/*.bundle.meta
